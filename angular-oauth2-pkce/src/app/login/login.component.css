@@ -1,0 +1,9 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+  /*смещение на размер картинки, если она 100 на 100 px*/
+  margin-top: -128px;
+  margin-left: -128px;
+}

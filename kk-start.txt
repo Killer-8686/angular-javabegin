@@ -1,0 +1,1 @@
+.\kc.bat start-dev --https-certificate-file="c:\tmp\localhost.cer" --https-certificate-key-file="c:\tmp\localhost.pkcs8" --https-port=8443 --http-port=8555
